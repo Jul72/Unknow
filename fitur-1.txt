@@ -5,3 +5,4 @@ Belajar Coding
 - CSS
 - Javascrit
 - PHP
+- Python
